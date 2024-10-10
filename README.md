@@ -6,8 +6,8 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 > Feel free to create a PR or an issue.  (Pull Request is preferred)
 
-<img src='assets/1.gif' height=180><img src='assets/2.gif' height=180><img src='assets/3.gif' height=180><img src='assets/4.gif' height=180>
-(The left two examples are from [JoSTC](https://github.com/MarkMoHR/JoSTC) and the right two are from [ToonCrafter](https://github.com/Doubiiu/ToonCrafter).)
+<img src='assets/1.gif' height=200><img src='assets/2.gif' height=200><img src='assets/3.gif' height=200>
+(The left two examples are from [JoSTC](https://github.com/MarkMoHR/JoSTC) and the right one is from [ToonCrafter](https://github.com/Doubiiu/ToonCrafter))
 
 
 **Outline**
