@@ -41,6 +41,9 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [As-Rigid-As-Possible Shape Interpolation](https://dl.acm.org/doi/10.1145/344779.344859) | SIGGRAPH 2000 |  |
+| [As-Rigid-As-Possible Shape Manipulation](https://dl.acm.org/doi/abs/10.1145/1073204.1073323) | TOG 2005 |  |
+| [As-Rigid-As-Possible Image Registration for Hand-drawn Cartoon Animations](https://dl.acm.org/doi/abs/10.1145/1572614.1572619) | NPAR 2009 | [[project]](https://dcgi.fel.cvut.cz/~sykorad/deform.html) |
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | [[video]](https://youtu.be/6DjQR5k286E) |
 | [ToonSynth: Example-Based Synthesis of Hand-Colored Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak18-SIG.pdf) | SIGGRAPH 2018 | [[webpage]](https://dcgi.fel.cvut.cz/home/sykorad/toonsynth.html) |
 | [A Method for Animating Children’s Drawings of the Human Figure](https://arxiv.org/abs/2303.12741) | TOG 2023 | [[code]](https://github.com/facebookresearch/AnimatedDrawings) [[project]](https://people.csail.mit.edu/liyifei/publication/children-animated-drawings/) [[demo]](https://sketch.metademolab.com/canvas) |
@@ -54,6 +57,8 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Line art | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 |   |
 | Line art | [Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening](https://openreview.net/forum?id=7GPsuT0vyh) | ACM MM 2024 |  |
 | Colorized | [Deep Sketch-Guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening)  |
+| Colorized | [Deep Animation Video Interpolation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/lisiyao21/AnimeInterp)  |
+| Colorized | [Improving the Perceptual Quality of 2D Animation Interpolation](https://link.springer.com/chapter/10.1007/978-3-031-19790-1_17) | ECCV 2022 | [[code]](https://github.com/ShuhongChen/eisai-anime-interpolator)  |
 | Colorized | [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://openaccess.thecvf.com/content/WACV2022/papers/Hinz_CharacterGAN_Few-Shot_Keypoint_Character_Animation_and_Reposing_WACV_2022_paper.pdf) | WACV 2022 |  [[code]](https://github.com/tohinz/CharacterGAN)  |
 | Colorized | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 |  [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 
@@ -65,6 +70,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 | Paper | Source | Representation | Code/Project Link |
 | --- | --- | --- | --- |
+| [Computer Aided Inbetweening](https://dl.acm.org/doi/abs/10.1145/508530.508552) | NPAR 2002 | stroke |  |
 | [BetweenIT: An Interactive Tool for Tight Inbetweening](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2009.01630.x) | CGF 2010 | stroke |  |
 | [Context-Aware Computer Aided Inbetweening](https://ieeexplore.ieee.org/abstract/document/7831370) | TVCG 2017 | stroke |  |
 | [FTP-SC: Fuzzy Topology Preserving Stroke Correspondence](https://dcgi.fel.cvut.cz/home/sykorad/Yang18-SCA.pdf) | SCA 2018 | stroke | [[webpage]](https://dcgi.fel.cvut.cz/home/sykorad/FTP-SC.html) [[video]](https://youtu.be/3oZfCAkYJQk) |
