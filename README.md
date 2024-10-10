@@ -49,12 +49,13 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 - Based on frame prediction with network
 
-| Paper | Source | Code/Project Link |
-| --- | --- | --- |
-| [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 |   |
-| [Animating Portrait Line Drawings from a Single Face Photo and a Speech Signal](https://dl.acm.org/doi/abs/10.1145/3528233.3530720) | SIGGRAPH 2022 | [[code]](https://github.com/AnimatePortrait/AnimatePortrait) |
-| [Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening](https://openreview.net/forum?id=7GPsuT0vyh) | ACM MM 2024 |  |
-| [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 | [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
+| Type | Paper | Source | Code/Project Link |
+| --- | --- | --- | --- |
+| Line art | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 |   |
+| Line art | [Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening](https://openreview.net/forum?id=7GPsuT0vyh) | ACM MM 2024 |  |
+| Colorized | [Deep Sketch-Guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening)  |
+| Colorized | [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://openaccess.thecvf.com/content/WACV2022/papers/Hinz_CharacterGAN_Few-Shot_Keypoint_Character_Animation_and_Reposing_WACV_2022_paper.pdf) | WACV 2022 |  [[code]](https://github.com/tohinz/CharacterGAN)  |
+| Colorized | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 |  [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
 
 
 
