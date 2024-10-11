@@ -90,6 +90,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | --- | --- | --- |
 | [Autocomplete Hand-drawn Animations](http://junxnui.github.io/research/siga15_autocomplete_handdrawn_animations.pdf) | SIGGRAPH Asia 2015 | [[webpage]](https://iis-lab.org/research/autocomplete-animations/) [[video]](https://youtu.be/w0YmWiy6sA4) |
 | [Non-linear Rough 2D Animation using Transient Embeddings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14771) | CGF 2023 |  |
+| [Efficient Interpolation of Rough Line Drawings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14946) | PG 2023 |  |
 
 
 ## 5. Differentiable Rendering + Optimization-based Animation
