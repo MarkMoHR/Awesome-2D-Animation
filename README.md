@@ -77,6 +77,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | --- | --- | --- | --- |
 | [Computer Aided Inbetweening](https://dl.acm.org/doi/abs/10.1145/508530.508552) | NPAR 2002 | stroke |  |
 | [BetweenIT: An Interactive Tool for Tight Inbetweening](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2009.01630.x) | CGF 2010 | stroke |  |
+| [DiLight: Digital light table – Inbetweening for 2D animations using guidelines](https://www.sciencedirect.com/science/article/pii/S0097849317300390) | C&G 2017 | stroke |  |
 | [Context-Aware Computer Aided Inbetweening](https://ieeexplore.ieee.org/abstract/document/7831370) | TVCG 2017 | stroke |  |
 | [FTP-SC: Fuzzy Topology Preserving Stroke Correspondence](https://dcgi.fel.cvut.cz/home/sykorad/Yang18-SCA.pdf) | SCA 2018 | stroke | [[webpage]](https://dcgi.fel.cvut.cz/home/sykorad/FTP-SC.html) [[video]](https://youtu.be/3oZfCAkYJQk) |
 | [Stroke-Based Drawing and Inbetweening with Boundary Strokes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14433) | CGF 2021 | stroke |  |
