@@ -66,6 +66,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Colorized | [Improving the Perceptual Quality of 2D Animation Interpolation](https://link.springer.com/chapter/10.1007/978-3-031-19790-1_17) | ECCV 2022 | [[code]](https://github.com/ShuhongChen/eisai-anime-interpolator)  |
 | Colorized | [CharacterGAN: Few-Shot Keypoint Character Animation and Reposing](https://openaccess.thecvf.com/content/WACV2022/papers/Hinz_CharacterGAN_Few-Shot_Keypoint_Character_Animation_and_Reposing_WACV_2022_paper.pdf) | WACV 2022 |  [[code]](https://github.com/tohinz/CharacterGAN)  |
 | Colorized | [ToonCrafter: Generative Cartoon Interpolation](https://arxiv.org/abs/2405.17933) | SIGGRAPH Asia 2024 |  [[code]](https://github.com/ToonCrafter/ToonCrafter) [[webpage]](https://doubiiu.github.io/projects/ToonCrafter/) |
+| Sketch | [FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations](https://arxiv.org/abs/2411.10818) | arxiv 24.11 |  [[code]](https://github.com/hmrishavbandy/FlipSketch)  |
 
 
 
