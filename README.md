@@ -13,6 +13,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 **Outline**
 
+- [0. Survey](#0-survey)
 - [1. Software](#1-software)
 - [2. Dataset](#2-dataset)
 - [3. Raster-based Animation](#3-raster-based-animation)
@@ -20,6 +21,14 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 - [5. Differentiable Rendering + Optimization-based Animation](#5-differentiable-rendering--optimization-based-animation)
 
 ---
+
+
+## 0. Survey
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Generative AI for Cel-Animation: A Survey](https://arxiv.org/pdf/2501.06250) | arxiv 25.01 | [[code]](https://github.com/yunlong10/Awesome-AI4Animation) |
+
 
 ## 1. Software
 
