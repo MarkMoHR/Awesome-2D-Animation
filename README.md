@@ -19,6 +19,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 - [3. Raster-based Animation](#3-raster-based-animation)
 - [4. Vector-based Animation](#4-vector-based-animation)
 - [5. Differentiable Rendering + Optimization-based Animation](#5-differentiable-rendering--optimization-based-animation)
+- [6. LLM-based Animation](#6-llm-based-animation)
 
 ---
 
@@ -116,4 +117,14 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://arxiv.org/abs/2404.11614) | arxiv 24.04 | curve | [[project]](https://animate-your-word.github.io/demo/) [[code]](https://github.com/zliucz/animate-your-word) |
 | [FlexiClip: Locality-Preserving Free-Form Character Animation](https://arxiv.org/abs/2501.08676) | arxiv 25.01 | image/mesh | [[project]](https://creative-gen.github.io/flexiclip.github.io/) |
 | [Multi-Object Sketch Animation by Scene Decomposition and Motion Planning](https://arxiv.org/abs/2503.19351) | arxiv 25.03 | stroke |  |
+
+
+## 6. LLM-based Animation
+
+| Paper | Source | Representation | Code/Project Link |
+| --- | --- | --- | --- |
+| [Keyframer: Empowering Animation Design using Large Language Models](https://arxiv.org/abs/2402.06071) | arxiv 24.02 | SVG | [[webpage]](https://machinelearning.apple.com/research/keyframer) |
+| [LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation](https://arxiv.org/abs/2405.07065) | CHI 2025 | SVG | [[webpage]](https://vivian-liu.com/#/logomotion) |
+| [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | arxiv 25.02 | SVG | [[webpage]](https://mover-dsl.github.io/) |
+
 
