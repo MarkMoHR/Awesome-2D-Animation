@@ -20,6 +20,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 - [4. Vector-based Animation](#4-vector-based-animation)
 - [5. Differentiable Rendering + Optimization-based Animation](#5-differentiable-rendering--optimization-based-animation)
 - [6. LLM-based Animation](#6-llm-based-animation)
+- [7. Interactive Animation Tools](#7-interactive-animation-tools)
 
 ---
 
@@ -102,9 +103,9 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
-| [Autocomplete Hand-drawn Animations](http://junxnui.github.io/research/siga15_autocomplete_handdrawn_animations.pdf) | SIGGRAPH Asia 2015 | [[webpage]](https://iis-lab.org/research/autocomplete-animations/) [[video]](https://youtu.be/w0YmWiy6sA4) |
 | [Non-linear Rough 2D Animation using Transient Embeddings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14771) | CGF 2023 |  |
 | [Efficient Interpolation of Rough Line Drawings](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14946) | PG 2023 |  |
+| [Inbetweening with occlusions for non-linear rough 2D animation](https://www.sciencedirect.com/science/article/pii/S0097849325000640) | C&G 2025 |  |
 
 
 ## 5. Differentiable Rendering + Optimization-based Animation
@@ -127,4 +128,15 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation](https://arxiv.org/abs/2405.07065) | CHI 2025 | SVG | [[webpage]](https://vivian-liu.com/#/logomotion) |
 | [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | arxiv 25.02 | SVG | [[webpage]](https://mover-dsl.github.io/) |
 
+
+## 7. Interactive Animation Tools
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Draco: bringing life to illustrations with kinetic textures](https://dl.acm.org/doi/abs/10.1145/2556288.2556987) | CHI 2014 | [[webpage]](https://rubaiathabib.me/2013/12/31/draco/) |
+| [Kitty: sketching dynamic and interactive illustrations](https://dl.acm.org/doi/abs/10.1145/2642918.2647375) | UIST 2014 | [[webpage]](https://rubaiathabib.me/2014/07/14/kitty/) |
+| [Autocomplete Hand-drawn Animations](https://dl.acm.org/doi/abs/10.1145/2816795.2818079) | SIGGRAPH Asia 2015 | [[webpage]](https://iis-lab.org/research/autocomplete-animations/) [[video]](https://youtu.be/w0YmWiy6sA4) |
+| [Motion Amplifiers: Sketching Dynamic Illustrations Using the Principles of 2D Animation](https://dl.acm.org/doi/abs/10.1145/2858036.2858386) | CHI 2016 | [[webpage]](https://rubaiathabib.me/2016/03/25/skuid-sketching-dynamic-illustrations-using-the-principles-of-2d-animation/) |
+| [Energy-Brushes: Interactive Tools for Illustrating Stylized Elemental Dynamics](https://dl.acm.org/doi/abs/10.1145/2984511.2984585) | UIST 2016 | [[webpage]](https://rubaiathabib.me/2016/08/16/energy-brushes/) |
+| [DrawTalking: Building Interactive Worlds by Sketching and Speaking](https://dl.acm.org/doi/abs/10.1145/3654777.3676334) | UIST 2024 | [[webpage]](https://ktrosenberg.github.io/drawtalking/) |
 
