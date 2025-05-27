@@ -128,7 +128,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | --- | --- | --- | --- |
 | [Keyframer: Empowering Animation Design using Large Language Models](https://arxiv.org/abs/2402.06071) | arxiv 24.02 | SVG | [[webpage]](https://machinelearning.apple.com/research/keyframer) |
 | [LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation](https://arxiv.org/abs/2405.07065) | CHI 2025 | SVG | [[webpage]](https://vivian-liu.com/#/logomotion) |
-| [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | arxiv 25.02 | SVG | [[webpage]](https://mover-dsl.github.io/) |
+| [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | SIGGRAPH 2025 | SVG | [[webpage]](https://mover-dsl.github.io/) |
 
 
 ## 7. Interactive Animation Tools
