@@ -81,7 +81,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Sketch | [FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations](https://arxiv.org/abs/2411.10818) | CVPR 2025 |  [[code]](https://github.com/hmrishavbandy/FlipSketch)  |
 | Colorized | [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://arxiv.org/abs/2501.16550) | CVPR 2025 |  [[webpage]](https://xpandora.github.io/PhysAnimator/) |
 | Colorized | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/abs/2412.10255) | IJCAI 2025 |  [[code]](https://github.com/bilibili/Index-anisora) |
-| Colorized | [LayerAnimate: Layer-level Control for Animation](https://arxiv.org/abs/2501.08295) | arxiv 25.01 |  [[webpage]](https://layeranimate.github.io/) [[code]](https://github.com/IamCreateAI/LayerAnimate) |
+| Colorized | [LayerAnimate: Layer-level Control for Animation](https://arxiv.org/abs/2501.08295) | ICCV 2025 |  [[webpage]](https://layeranimate.github.io/) [[code]](https://github.com/IamCreateAI/LayerAnimate) |
 
 
 
