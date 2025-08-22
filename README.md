@@ -82,6 +82,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Colorized | [PhysAnimator: Physics-Guided Generative Cartoon Animation](https://arxiv.org/abs/2501.16550) | CVPR 2025 |  [[webpage]](https://xpandora.github.io/PhysAnimator/) |
 | Colorized | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/abs/2412.10255) | IJCAI 2025 |  [[code]](https://github.com/bilibili/Index-anisora) |
 | Colorized | [LayerAnimate: Layer-level Control for Animation](https://arxiv.org/abs/2501.08295) | ICCV 2025 |  [[webpage]](https://layeranimate.github.io/) [[code]](https://github.com/IamCreateAI/LayerAnimate) |
+| Colorized | [ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](https://arxiv.org/abs/2508.10881) | arxiv 25.08 |  [[webpage]](https://lg-li.github.io/project/tooncomposer) [[code]](https://github.com/TencentARC/ToonComposer) |
 
 
 
