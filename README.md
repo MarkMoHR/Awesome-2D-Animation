@@ -121,6 +121,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://arxiv.org/abs/2404.11614) | ICCV 2025 | curve | [[project]](https://animate-your-word.github.io/demo/) [[code]](https://github.com/zliucz/animate-your-word) |
 | [FlexiClip: Locality-Preserving Free-Form Character Animation](https://arxiv.org/abs/2501.08676) | arxiv 25.01 | image/mesh | [[project]](https://creative-gen.github.io/flexiclip.github.io/) |
 | [Multi-Object Sketch Animation by Scene Decomposition and Motion Planning](https://arxiv.org/abs/2503.19351) | ICCV 2025 | stroke |  |
+| [Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors](https://arxiv.org/abs/2508.15535) | MM 2025 | stroke | [[webpage]](https://hjc-owo.github.io/GroupSketchProject/) [[code]](https://github.com/Yukinonooo/GroupSketch) |
 
 
 ## 6. LLM-based Animation
