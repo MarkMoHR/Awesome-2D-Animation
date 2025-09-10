@@ -73,7 +73,6 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | --- | --- | --- | --- |
 | Line art | [Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings](https://ieeexplore.ieee.org/abstract/document/8803506) | ICIP 2019 |   |
 | Line art | [Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening](https://openreview.net/forum?id=7GPsuT0vyh) | ACM MM 2024 | [[code]](https://github.com/none-master/SAIN) |
-| Line art | [Thin-Plate Spline-based Interpolation for Animation Line Inbetweening](https://arxiv.org/abs/2408.09131) | AAAI 2025 | [[code]](https://github.com/Tian-one/tps-inbetween) |
 | Colorized | [Deep Sketch-Guided Cartoon Video Inbetweening](https://ieeexplore.ieee.org/document/9314221) | TVCG 2021 | [[code]](https://github.com/xiaoyu258/Inbetweening)  |
 | Colorized | [Deep Animation Video Interpolation in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf) | CVPR 2021 | [[code]](https://github.com/lisiyao21/AnimeInterp)  |
 | Colorized | [Improving the Perceptual Quality of 2D Animation Interpolation](https://link.springer.com/chapter/10.1007/978-3-031-19790-1_17) | ECCV 2022 | [[code]](https://github.com/ShuhongChen/eisai-anime-interpolator)  |
@@ -101,6 +100,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Stroke-Based Drawing and Inbetweening with Boundary Strokes](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14433) | CGF 2021 | stroke |  |
 | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV 2023 | vertex/point | [[code]](https://github.com/lisiyao21/AnimeInbet) |
 | [Joint Stroke Tracing and Correspondence for 2D Animation](https://dl.acm.org/doi/10.1145/3649890) | TOG 2024 | stroke | [[code]](https://github.com/MarkMoHR/JoSTC) [[webpage]](https://markmohr.github.io/JoSTC/) |
+| [Thin-Plate Spline-based Interpolation for Animation Line Inbetweening](https://arxiv.org/abs/2408.09131) | AAAI 2025 | pixel point | [[code]](https://github.com/Tian-one/tps-inbetween) |
 
 - Based on template matching
 
