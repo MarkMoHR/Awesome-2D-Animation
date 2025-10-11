@@ -19,7 +19,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 - [3. Raster-based Animation](#3-raster-based-animation)
 - [4. Vector-based Animation](#4-vector-based-animation)
 - [5. Differentiable Rendering + Optimization-based Animation](#5-differentiable-rendering--optimization-based-animation)
-- [6. LLM-based Animation](#6-llm-based-animation)
+- [6. LLM/LMM-based Animation](#6-llmlmm-based-animation)
 - [7. Interactive Animation Tools](#7-interactive-animation-tools)
 
 ---
@@ -124,7 +124,16 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors](https://arxiv.org/abs/2508.15535) | MM 2025 | stroke | [[webpage]](https://hjc-owo.github.io/GroupSketchProject/) [[code]](https://github.com/Yukinonooo/GroupSketch) |
 
 
-## 6. LLM-based Animation
+## 6. LLM/LMM-based Animation
+
+- LMM
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/full/10.1145/3680528.3687688) | SIGGRAPH Asia 2024 | [[code]](https://github.com/HITsz-TMG/Anim-Director) |
+| [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/abs/2506.10540) | SIGGRAPH Asia 2025 | [[code]](https://github.com/HITsz-TMG/Anim-Director/tree/main/AniMaker)  [[webpage]](https://animaker-dev.github.io/) |
+
+- LLM
 
 | Paper | Source | Representation | Code/Project Link |
 | --- | --- | --- | --- |
