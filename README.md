@@ -63,9 +63,16 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Live Sketch: Video-driven Dynamic Deformation of Static Drawings](http://sweb.cityu.edu.hk/hongbofu/doc/livesketch_CHI2018.pdf) | CHI 2018 | [[video]](https://youtu.be/6DjQR5k286E) |
 | [ToonSynth: Example-Based Synthesis of Hand-Colored Cartoon Animations](https://dcgi.fel.cvut.cz/home/sykorad/Dvoroznak18-SIG.pdf) | SIGGRAPH 2018 | [[webpage]](https://dcgi.fel.cvut.cz/home/sykorad/toonsynth.html) |
 | [A Method for Animating Children’s Drawings of the Human Figure](https://arxiv.org/abs/2303.12741) | TOG 2023 | [[code]](https://github.com/facebookresearch/AnimatedDrawings) [[project]](https://people.csail.mit.edu/liyifei/publication/children-animated-drawings/) [[demo]](https://sketch.metademolab.com/canvas) |
-| [DrawingSpinUp: 3D Animation from Single Character Drawings](https://lordliang.github.io/DrawingSpinUp/) | SIGGRAPH Asia 2024 | [[project]](https://lordliang.github.io/DrawingSpinUp/) [[code]](https://github.com/LordLiang/DrawingSpinUp) |
 | [Skeleton-Driven Inbetweening of Bitmap Character Drawings](http://www-labs.iro.umontreal.ca/~bmpix/inbetweening/inbetweening.pdf) | SIGGRAPH Asia 2024 | [[code]](https://github.com/kbrodt/inbetweening) [[webpage]](http://www-labs.iro.umontreal.ca/~bmpix/inbetweening/) |
 | [SketchAnim: Real-time sketch animation transfer from videos](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15176) | CGF 2024 | [[code]](https://github.com/graphics-research-group/SketchAnim) [[webpage]](https://graphics-research-group.github.io/SketchAnim/) |
+
+- 3D Animation
+
+| Paper | Source | Code/Project Link |
+| --- | --- | --- |
+| [DrawingSpinUp: 3D Animation from Single Character Drawings](https://lordliang.github.io/DrawingSpinUp/) | SIGGRAPH Asia 2024 | [[project]](https://lordliang.github.io/DrawingSpinUp/) [[code]](https://github.com/LordLiang/DrawingSpinUp) |
+| [Occlusion-robust Stylization for Drawing-based 3D Animation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yoon_Occlusion-robust_Stylization_for_Drawing-based_3D_Animation_ICCV_2025_paper.pdf) | ICCV 2025 | [[project]](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/) [[code]](https://github.com/dbstjswo505/OSF) |
+
 
 - Based on frame prediction with network
 
