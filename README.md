@@ -70,6 +70,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
+| [From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters](https://dl.acm.org/doi/abs/10.1145/3763280) | SIGGRAPH Asia 2025 | [[project]](https://lordliang.github.io/From-Rigging-to-Waving/) [[code]](https://github.com/LordLiang/From-Rigging-to-Waving) |
 | [DrawingSpinUp: 3D Animation from Single Character Drawings](https://lordliang.github.io/DrawingSpinUp/) | SIGGRAPH Asia 2024 | [[project]](https://lordliang.github.io/DrawingSpinUp/) [[code]](https://github.com/LordLiang/DrawingSpinUp) |
 | [Occlusion-robust Stylization for Drawing-based 3D Animation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yoon_Occlusion-robust_Stylization_for_Drawing-based_3D_Animation_ICCV_2025_paper.pdf) | ICCV 2025 | [[project]](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/) [[code]](https://github.com/dbstjswo505/OSF) |
 
@@ -90,6 +91,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Colorized | [AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era](https://arxiv.org/abs/2412.10255) | IJCAI 2025 |  [[code]](https://github.com/bilibili/Index-anisora) |
 | Colorized | [LayerAnimate: Layer-level Control for Animation](https://arxiv.org/abs/2501.08295) | ICCV 2025 |  [[webpage]](https://layeranimate.github.io/) [[code]](https://github.com/IamCreateAI/LayerAnimate) |
 | Colorized | [ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](https://arxiv.org/abs/2508.10881) | arxiv 25.08 |  [[webpage]](https://lg-li.github.io/project/tooncomposer) [[code]](https://github.com/TencentARC/ToonComposer) |
+| Colorized | [FairyGen: Storied Cartoon Video from a Single Child-Drawn Character](https://arxiv.org/abs/2506.21272) | SIGGRAPH Asia 2025 |  [[webpage]](https://jayleejia.github.io/FairyGen/) [[code]](https://github.com/GVCLab/FairyGen) |
 
 
 
