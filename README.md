@@ -161,4 +161,5 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Motion Amplifiers: Sketching Dynamic Illustrations Using the Principles of 2D Animation](https://dl.acm.org/doi/abs/10.1145/2858036.2858386) | CHI 2016 | [[webpage]](https://rubaiathabib.me/2016/03/25/skuid-sketching-dynamic-illustrations-using-the-principles-of-2d-animation/) |
 | [Energy-Brushes: Interactive Tools for Illustrating Stylized Elemental Dynamics](https://dl.acm.org/doi/abs/10.1145/2984511.2984585) | UIST 2016 | [[webpage]](https://rubaiathabib.me/2016/08/16/energy-brushes/) |
 | [DrawTalking: Building Interactive Worlds by Sketching and Speaking](https://dl.acm.org/doi/abs/10.1145/3654777.3676334) | UIST 2024 | [[webpage]](https://ktrosenberg.github.io/drawtalking/) |
+| [Notational Animating: An Interactive Approach to Creating and Editing Animation Keyframes](https://xinyu-shi.github.io/uploads/Notational_Animating.pdf) | CHI 2026 | [[webpage]](https://xinyu-shi.github.io/uploads/Notational_Animating_project_page/index.html) |
 
