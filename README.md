@@ -122,15 +122,23 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 ## 5. Differentiable Rendering + Optimization-based Animation
 
+- Sketch / Line art
+
 | Paper | Source | Representation | Code/Project Link |
 | --- | --- | --- | --- |
 | [Sketch Video Synthesis](https://arxiv.org/abs/2311.15306) | EG 2024 | stroke | [[code]](https://github.com/yudianzheng/SketchVideo) [[project]](https://sketchvideo.github.io/) |
 | [Breathing Life Into Sketches Using Text-to-Video Priors](https://arxiv.org/abs/2311.13608) | CVPR 2024 | stroke | [[code]](https://github.com/yael-vinker/live_sketch) [[project]](https://livesketch.github.io/) |
-| [AniClipart: Clipart Animation with Text-to-Video Priors](https://arxiv.org/abs/2404.12347) | IJCV 2024 | image/mesh | [[project]](https://aniclipart.github.io/) [[code]](https://github.com/kingnobro/AniClipart) |
 | [Dynamic Typography: Bringing Text to Life via Video Diffusion Prior](https://arxiv.org/abs/2404.11614) | ICCV 2025 | curve | [[project]](https://animate-your-word.github.io/demo/) [[code]](https://github.com/zliucz/animate-your-word) |
-| [FlexiClip: Locality-Preserving Free-Form Character Animation](https://arxiv.org/abs/2501.08676) | ICML 2025 | image/mesh | [[project]](https://creative-gen.github.io/flexiclip.github.io/) |
 | [Multi-Object Sketch Animation by Scene Decomposition and Motion Planning](https://arxiv.org/abs/2503.19351) | ICCV 2025 | stroke | [[webpage]](https://rucmm.github.io/MoSketch/) [[code]](https://github.com/jyliu-98/MoSketch) |
 | [Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors](https://arxiv.org/abs/2508.15535) | MM 2025 | stroke | [[webpage]](https://hjc-owo.github.io/GroupSketchProject/) [[code]](https://github.com/Yukinonooo/GroupSketch) |
+
+- Color image
+
+| Paper | Source | Representation | Code/Project Link |
+| --- | --- | --- | --- |
+| [AniClipart: Clipart Animation with Text-to-Video Priors](https://arxiv.org/abs/2404.12347) | IJCV 2024 | image/mesh | [[project]](https://aniclipart.github.io/) [[code]](https://github.com/kingnobro/AniClipart) |
+| [FlexiClip: Locality-Preserving Free-Form Character Animation](https://arxiv.org/abs/2501.08676) | ICML 2025 | image/mesh | [[project]](https://creative-gen.github.io/flexiclip.github.io/) |
+| [Generative Cutout Animation](https://www-labs.iro.umontreal.ca/~bmpix/pdf/PAPER_CUTOUTS.pdf) | EG 2026 | image | [[project]](https://puhachov.xyz/publications/generative-cutout-animation/) |
 
 
 ## 6. LLM/LMM-based Animation
