@@ -170,4 +170,5 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Energy-Brushes: Interactive Tools for Illustrating Stylized Elemental Dynamics](https://dl.acm.org/doi/abs/10.1145/2984511.2984585) | UIST 2016 | [[webpage]](https://rubaiathabib.me/2016/08/16/energy-brushes/) |
 | [DrawTalking: Building Interactive Worlds by Sketching and Speaking](https://dl.acm.org/doi/abs/10.1145/3654777.3676334) | UIST 2024 | [[webpage]](https://ktrosenberg.github.io/drawtalking/) |
 | [Notational Animating: An Interactive Approach to Creating and Editing Animation Keyframes](https://xinyu-shi.github.io/uploads/Notational_Animating.pdf) | CHI 2026 | [[webpage]](https://xinyu-shi.github.io/uploads/Notational_Animating_project_page/index.html) |
+| [SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation](https://arxiv.org/abs/2601.20622) | CHI 2026 |  |
 
