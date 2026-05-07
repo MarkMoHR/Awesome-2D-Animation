@@ -110,6 +110,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [Deep Geometrized Cartoon Line Inbetweening](https://openaccess.thecvf.com/content/ICCV2023/papers/Siyao_Deep_Geometrized_Cartoon_Line_Inbetweening_ICCV_2023_paper.pdf) | ICCV 2023 | vertex/point | [[code]](https://github.com/lisiyao21/AnimeInbet) |
 | [Joint Stroke Tracing and Correspondence for 2D Animation](https://dl.acm.org/doi/10.1145/3649890) | TOG 2024 | stroke | [[code]](https://github.com/MarkMoHR/JoSTC) [[webpage]](https://markmohr.github.io/JoSTC/) |
 | [Thin-Plate Spline-based Interpolation for Animation Line Inbetweening](https://arxiv.org/abs/2408.09131) | AAAI 2025 | pixel point | [[code]](https://github.com/Tian-one/tps-inbetween) |
+| [LayerInbetween: Occlusion-Aware Stroke Correspondence and Inbetweening with Automatic Layering](https://cislab.hkust-gz.edu.cn/media/documents/_SIGGRAPH_2026__LayerInbetween.pdf) | SIGGRAPH 2026 | stroke | [[code]](https://github.com/MarkMoHR/LayerInbetween) [[webpage]](https://markmohr.github.io/LayerInbetween/) |
 
 - Based on template matching
 
