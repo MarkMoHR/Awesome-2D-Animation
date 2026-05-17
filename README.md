@@ -92,6 +92,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | Colorized | [LayerAnimate: Layer-level Control for Animation](https://arxiv.org/abs/2501.08295) | ICCV 2025 |  [[webpage]](https://layeranimate.github.io/) [[code]](https://github.com/IamCreateAI/LayerAnimate) |
 | Colorized | [ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing](https://arxiv.org/abs/2508.10881) | arxiv 25.08 |  [[webpage]](https://lg-li.github.io/project/tooncomposer) [[code]](https://github.com/TencentARC/ToonComposer) |
 | Colorized | [FairyGen: Storied Cartoon Video from a Single Child-Drawn Character](https://arxiv.org/abs/2506.21272) | SIGGRAPH Asia 2025 |  [[webpage]](https://jayleejia.github.io/FairyGen/) [[code]](https://github.com/GVCLab/FairyGen) |
+| Colorized | [Trajectory-guided Anime Video Synthesis via Effective Motion Learning](https://diglib.eg.org/items/5ec9bb32-643d-464b-9713-dcf1bfba5b96) | PG 2025 |  [[webpage]](https://animemotiontraj.github.io/) |
 
 
 
