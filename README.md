@@ -141,6 +141,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [AniClipart: Clipart Animation with Text-to-Video Priors](https://arxiv.org/abs/2404.12347) | IJCV 2024 | image/mesh | [[project]](https://aniclipart.github.io/) [[code]](https://github.com/kingnobro/AniClipart) |
 | [FlexiClip: Locality-Preserving Free-Form Character Animation](https://arxiv.org/abs/2501.08676) | ICML 2025 | image/mesh | [[project]](https://creative-gen.github.io/flexiclip.github.io/) |
 | [Generative Cutout Animation](https://www-labs.iro.umontreal.ca/~bmpix/pdf/PAPER_CUTOUTS.pdf) | EG 2026 | image | [[project]](https://puhachov.xyz/publications/generative-cutout-animation/) |
+| [LiveSVG: Zero-Shot SVG Animation via Video Generation](https://arxiv.org/abs/2605.30174) | arxiv 26.05 | SVG | [[project]](https://levymsn.github.io/LiveSVG/) |
 
 
 ## 6. LLM/LMM-based Animation
