@@ -161,6 +161,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation](https://arxiv.org/abs/2405.07065) | CHI 2025 | SVG | [[webpage]](https://vivian-liu.com/#/logomotion) |
 | [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | SIGGRAPH 2025 | SVG | [[webpage]](https://mover-dsl.github.io/) |
 | [VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](https://arxiv.org/abs/2605.01517) | ICML 2026 | SVG | [[webpage]](https://yukinonooo.github.io/VAnimProject/) |
+| [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_LottieGPT_Tokenizing_Vector_Animation_for_Autoregressive_Generation_CVPR_2026_paper.pdf) | CVPR 2026 | SVG | [[webpage]](https://lottiegpt.github.io/) [[code]](https://github.com/yisuanwang/LottieGPT) |
 
 
 ## 7. Interactive Animation Tools
