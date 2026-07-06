@@ -73,6 +73,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [From Rigging to Waving: 3D-Guided Diffusion for Natural Animation of Hand-Drawn Characters](https://dl.acm.org/doi/abs/10.1145/3763280) | SIGGRAPH Asia 2025 | [[project]](https://lordliang.github.io/From-Rigging-to-Waving/) [[code]](https://github.com/LordLiang/From-Rigging-to-Waving) |
 | [DrawingSpinUp: 3D Animation from Single Character Drawings](https://lordliang.github.io/DrawingSpinUp/) | SIGGRAPH Asia 2024 | [[project]](https://lordliang.github.io/DrawingSpinUp/) [[code]](https://github.com/LordLiang/DrawingSpinUp) |
 | [Occlusion-robust Stylization for Drawing-based 3D Animation](https://openaccess.thecvf.com/content/ICCV2025/papers/Yoon_Occlusion-robust_Stylization_for_Drawing-based_3D_Animation_ICCV_2025_paper.pdf) | ICCV 2025 | [[project]](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/) [[code]](https://github.com/dbstjswo505/OSF) |
+| [SPECSIA: Stylization Dataset for Novel-View Enhancement in Drawing-based 3D Animation](https://arxiv.org/abs/2607.00525) | ECCV 2026 | [[project]](https://rbdnjs7830.github.io/SPECSIA/) |
 
 
 - Based on frame prediction with network
