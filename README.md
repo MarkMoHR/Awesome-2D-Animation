@@ -29,7 +29,9 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 
 | Paper | Source | Code/Project Link |
 | --- | --- | --- |
-| [Generative AI for Cel-Animation: A Survey](https://arxiv.org/pdf/2501.06250) | arxiv 25.01 | [[code]](https://github.com/yunlong10/Awesome-AI4Animation) |
+| [Generative AI for video-driven image animation: A survey](https://www.sciencedirect.com/science/article/pii/S0097849326001512) | C&G 2026 |  |
+| [Generative AI for Cel-Animation: A Survey](https://arxiv.org/pdf/2501.06250) | ICCVW 2025 | [[webpage]](https://github.com/yunlong10/Awesome-AI4Animation) |
+| [Computational topology for hand-drawn animation technology: A survey](https://www.sciencedirect.com/science/article/pii/S0097849325000664) | C&G 2025 |  |
 
 
 ## 1. Software
