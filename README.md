@@ -19,7 +19,7 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 - [3. Raster-based Animation](#3-raster-based-animation)
 - [4. Vector-based Animation](#4-vector-based-animation)
 - [5. Differentiable Rendering + Optimization-based Animation](#5-differentiable-rendering--optimization-based-animation)
-- [6. LLM/LMM-based Animation](#6-llmlmm-based-animation)
+- [6. LLM-based Animation](#6-llm-based-animation)
 - [7. Interactive Animation Tools](#7-interactive-animation-tools)
 
 ---
@@ -147,24 +147,21 @@ A collection of tools, datasets and papers about inbetweening and 2D animation.
 | [LiveSVG: Zero-Shot SVG Animation via Video Generation](https://arxiv.org/abs/2605.30174) | arxiv 26.05 | SVG | [[project]](https://levymsn.github.io/LiveSVG/) |
 
 
-## 6. LLM/LMM-based Animation
+## 6. LLM-based Animation
 
-- LMM
-
-| Paper | Source | Code/Project Link |
-| --- | --- | --- |
-| [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/full/10.1145/3680528.3687688) | SIGGRAPH Asia 2024 | [[code]](https://github.com/HITsz-TMG/Anim-Director) |
-| [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/abs/2506.10540) | SIGGRAPH Asia 2025 | [[code]](https://github.com/HITsz-TMG/Anim-Director/tree/main/AniMaker)  [[webpage]](https://animaker-dev.github.io/) |
-
-- LLM
 
 | Paper | Source | Representation | Code/Project Link |
 | --- | --- | --- | --- |
+| [Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation](https://dl.acm.org/doi/full/10.1145/3680528.3687688) | SIGGRAPH Asia 2024 | Bitmap | [[code]](https://github.com/HITsz-TMG/Anim-Director) |
+| [AniMaker: Multi-Agent Animated Storytelling with MCTS-Driven Clip Generation](https://arxiv.org/abs/2506.10540) | SIGGRAPH Asia 2025 | Bitmap | [[code]](https://github.com/HITsz-TMG/Anim-Director/tree/main/AniMaker)  [[webpage]](https://animaker-dev.github.io/) |
+|  |  |  |  |
 | [Keyframer: Empowering Animation Design using Large Language Models](https://arxiv.org/abs/2402.06071) | arxiv 24.02 | SVG | [[webpage]](https://machinelearning.apple.com/research/keyframer) |
 | [LogoMotion: Visually-Grounded Code Synthesis for Creating and Editing Animation](https://arxiv.org/abs/2405.07065) | CHI 2025 | SVG | [[webpage]](https://vivian-liu.com/#/logomotion) |
 | [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) | SIGGRAPH 2025 | SVG | [[webpage]](https://mover-dsl.github.io/) |
 | [VAnim: Rendering-Aware Sparse State Modeling for Structure-Preserving Vector Animation](https://arxiv.org/abs/2605.01517) | ICML 2026 | SVG | [[webpage]](https://yukinonooo.github.io/VAnimProject/) |
 | [LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://openaccess.thecvf.com/content/CVPR2026/papers/Chen_LottieGPT_Tokenizing_Vector_Animation_for_Autoregressive_Generation_CVPR_2026_paper.pdf) | CVPR 2026 | SVG | [[webpage]](https://lottiegpt.github.io/) [[code]](https://github.com/yisuanwang/LottieGPT) |
+| [OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens](https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_OmniLottie_Generating_Vector_Animations_via_Parameterized_Lottie_Tokens_CVPR_2026_paper.pdf) | CVPR 2026 | SVG | [[webpage]](https://openvglab.github.io/OmniLottie/) [[code]](https://github.com/OpenVGLab/OmniLottie) |
+| [TextAE: A Benchmark and Flow-Matching Baseline for Text-Controlled Layered Animation](https://dl.acm.org/doi/abs/10.1145/3767308.3835784) | MM 2026 | SVG | |
 
 
 ## 7. Interactive Animation Tools
